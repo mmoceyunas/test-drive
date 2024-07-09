@@ -1,7 +1,10 @@
 ---
 title: "testdrivemarkdown"
-output: html_document
+author: "Margo Moceyunas"
 date: "2024-07-09"
+output: 
+  html_document: 
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
